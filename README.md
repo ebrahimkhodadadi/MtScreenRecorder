@@ -57,7 +57,7 @@ Before running the script, ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ebrahimkhodadadi/MtScreenRecorder.git
-   cd obs-instagram-video-creator
+   cd MtScreenRecorder
    ```
 
 2. **Install Dependencies**:
