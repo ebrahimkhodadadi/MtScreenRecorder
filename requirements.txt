@@ -1,0 +1,8 @@
+instagrapi==2.0.3
+MetaTrader5==5.0.45
+MetaTrader5==5.0.4874
+moviepy==1.0.3
+obs_websocket_py==1.0
+PyAutoGUI==0.9.54
+pyfiglet==1.0.2
+questionary==2.1.0
