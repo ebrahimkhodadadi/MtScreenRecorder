@@ -2,7 +2,7 @@ Here’s a professional `README.md` file for your project based on the details y
 
 ---
 
-# OBS Instagram Story Video Creator
+# Instagram Story Video Creator & Upload Automatically
 
 This project allows you to record your desktop screen using OBS Studio, process the video to fit Instagram Stories (1080x1920 resolution), and speed it up to create a 15-second high-quality video suitable for Instagram.
 
