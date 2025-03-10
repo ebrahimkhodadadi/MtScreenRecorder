@@ -43,6 +43,9 @@ Before running the script, ensure you have the following installed:
    - Go to `File` > `Settings` > `Video`.
    - Set both `Base (Canvas) Resolution` and `Output (Scaled) Resolution` to `1080x1920` (Instagram Stories resolution).
 
+3. **Set Video Recording path**:
+   - Go to `File` > `Settings` > `Output` and set `Video Recording path` to current application path.
+   - 
 4. **Start Recording**:
    - Ensure OBS Studio is running and ready to record.
 
